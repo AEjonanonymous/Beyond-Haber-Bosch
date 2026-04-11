@@ -13,7 +13,7 @@
 
 This repository provides the theoretical framework and computational verification for a non-thermal alternative to the Haber-Bosch process. By utilizing selective **Resonant Vibrational Excitation**, we demonstrate the deterministic dissociation of the $N \equiv N$ triple bond at its fundamental frequency of **70.7 THz**.
 
-## 🌍 Industrial Context
+## 🏭 Industrial Context
 The Haber-Bosch process currently consumes **1% to 2% of global energy**. Traditional catalysis relies on stochastic thermal collisions to populate high vibrational states. This project replaces bulk thermodynamics with a **Molecular Force Controller (MFC)** designed to snap the bond through precise, periodic nano-forces.
 
 ## ⚡ The Mechanism: Chirped Resonant Snapping
@@ -45,7 +45,11 @@ The core of this project is **`Dinitrogen_Resonant_Dissociation_Model.py`**, a h
 ## ⚖️ License
 The source code and resonant parameters are licensed under **CC BY-NC 4.0**. 
 
-**Notice:** This license permits academic use and open verification but **strictly prohibits any commercial implementation** of the resonant dissociation methods, optimized physical ranges, or derived parameters—or any implementations substantially derived from this research—without a separate commercial license from the author.
+**Notice:** This license permits academic use and open verification but **strictly prohibits any commercial implementation** of the resonant dissociation methods, optimized physical ranges, or derived parameters—or any implementations substantially derived from this research—without a separate commercial license.
+
+**For commerical licensing inquiries please contact:**
+
+Licensing Agent - J.E. Randolph 📧 [700josh.r@gmail.com](mailto:700josh.r@gmail.com)
 
 ---
-*For industrial scaling inquiries or commercial licensing regarding the 70.7 THz protocol, please refer to the ORCID profile: [0009-0008-7345-1407](https://orcid.org/0009-0008-7345-1407).*
+*Copyright © 2026 Jonathan Alan Reed. 
