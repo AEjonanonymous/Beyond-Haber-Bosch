@@ -50,8 +50,6 @@ The core of this project is **`Dinitrogen_Resonant_Dissociation_Model.py`**, a h
 ## ⚖️ License
 The source code and resonant parameters are licensed under **CC BY-NC 4.0**. 
 
-**Notice:** This license permits academic use and open verification but **strictly prohibits any commercial implementation** of the resonant dissociation methods, optimized physical ranges, or derived parameters—or any implementations substantially derived from this research—without a separate commercial license.
-
 **For commerical licensing inquiries please contact:**
 
 Licensing Agent - J.E. Randolph 📧 [700josh.r@gmail.com](mailto:700josh.r@gmail.com)
