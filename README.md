@@ -1,4 +1,3 @@
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Python: 3.x](https://img.shields.io/badge/Python-3.x-blue.svg?logo=python&logoColor=white)](#)
 [![Field: Computational Physics](https://img.shields.io/badge/Field-Computational%20Physics-blue.svg)](#)
 
