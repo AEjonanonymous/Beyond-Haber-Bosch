@@ -39,9 +39,9 @@ The core of this project is **`Dinitrogen_Resonant_Dissociation_Model.py`**, a h
 | **Precision Accuracy** | Within 0.11% |
 
 ## 📂 Repository Contents
-* **`Resonant Vibrational Dissociation of Dinitrogen via Periodic Nano-Force Fields_.pdf`**: The full theoretical manuscript including the implementation blueprint for vacuum-based THz arrays.
-* **`Dinitrogen_Resonant_Dissociation_Model.py`**: The definitive computational model and verification engine.
-* **`dissociation_analysis.png`**: High-resolution visualization of bond-length acceleration and energy accumulation.
+* **`Beyond Haber-Bosch - Resonant Vibrational Dissociation of Dinitrogen via Periodic Nano-Force Fields_.pdf`**: The full theoretical manuscript including the conceptual implementation blueprint for vacuum-based THz arrays.
+* **`Dinitrogen_Resonant_Dissociation_Model.py`**: The definitive computational model and simulation of resonant bond-snapping.
+* **`dissociation_analysis.png`**: Visualization of the bond-snapping event, capturing the transition from stable oscillation to Morse Potential failure.
 
 ## ⚖️ License
 The source code and resonant parameters are licensed under **CC BY-NC 4.0**. 
