@@ -5,10 +5,11 @@
 ---
 
 <div align="center">
-  <h1>Beyond Haber-Bosch: Resonant Dissociation of $N_2$</h1>
+  <h1>🚀 Beyond Haber-Bosch 🌍</h1>
   <em>A Computational Approach to Sustainable Nitrogen Fixation</em>
 </div>
 
+🌀 Resonant Dissociation of $N_2$
 ---
 
 This repository provides the theoretical framework and computational verification for a non-thermal alternative to the Haber-Bosch process. By utilizing selective **Resonant Vibrational Excitation**, we demonstrate the deterministic dissociation of the $N \equiv N$ triple bond at its fundamental frequency of **70.7 THz**.
@@ -16,7 +17,7 @@ This repository provides the theoretical framework and computational verificatio
 ## 🏭 Industrial Context
 The Haber-Bosch process currently consumes **1% to 2% of global energy**. Traditional catalysis relies on stochastic thermal collisions to populate high vibrational states. This project replaces bulk thermodynamics with a **Molecular Force Controller (MFC)** designed to snap the bond through precise, periodic nano-forces.
 
-## ⚡ The Mechanism: Chirped Resonant Snapping
+## 📡 The Mechanism: Chirped Resonant Snapping
 A primary challenge in bond dissociation is **anharmonicity**: as the bond stretches, its resonant frequency shifts, leading to a loss of phase-lock. This design utilizes a **Chirped Pulse** to maintain structural resonance through the entire dissociation coordinate.
 
 * **Fundamental Frequency**: 70.7 THz
